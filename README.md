@@ -19,6 +19,12 @@ A very basic calculator written in **Python** that can perform simple arithmetic
 
 ## 📂 Project Structure
 
+Simple-Calculator/
+│── calculator.py # Main program
+│── art.py # Contains ASCII logo (optional)
+│── README.md # Project description
+---
+
 ---
 
 ## ▶️ How to Run
@@ -26,7 +32,10 @@ A very basic calculator written in **Python** that can perform simple arithmetic
    ```bash
    git clone https://github.com/ak1bhasan/Simple-Calculator.git
    cd Simple-Calculator
-python calculator.py
+Run the calculator:
+   python calculator.py
+   
+📝 Example Usage
 Welcome to the Calculator!
 
 What's the first number?: 10
